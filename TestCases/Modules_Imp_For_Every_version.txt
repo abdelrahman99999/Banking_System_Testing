@@ -1,0 +1,47 @@
+------------------------------------------------------
+------------------------------------------------------
+Version 1
+------------------------------------------------------
+------------------------------------------------------
+
+The development team informs that, in the first version of the banking site, they will implement the following modules for the Manager -
+
+New Customer
+Edit Customer
+New Account
+Edit Account
+Delete Account
+Delete Customer
+Mini Statement
+Customized Statement
+ 
+Link: https://demo.guru99.com/V1/
+------------------------------------------------------
+------------------------------------------------------
+Version 2
+------------------------------------------------------
+------------------------------------------------------
+
+Developers claim to fix all bugs you reported in version 1 and have added the Balance enquiry module to version 2.
+
+Link: https://demo.guru99.com/V2/
+
+------------------------------------------------------
+------------------------------------------------------
+Version 3
+------------------------------------------------------
+------------------------------------------------------
+This release will feature
+
+- All modules for the Manager Role 
+(
+New Customer ,Edit Customer ,Delete Customer ,New Account,Edit Account,Delete Account,Deposit.Withdrawal.Fund Transfer
+Change Password,Balance Enquiry,Mini Statement,Customized Statement,Login & Logout 
+)
+- All modules for the Customer Role
+(
+Balance enquiry,Fund Transfer,Mini Statement,Customized Statement,Change Password,Login & Logout
+)
+
+Link: https://demo.guru99.com/V3/
+
