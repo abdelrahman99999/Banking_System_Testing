@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Login Suite">
+    <test name="Test valid and Invalid scenarios">
+        <classes>
+            <class name="Verify_Login_Func"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Login Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test valid and Invalid scenarios(failed)">
+    <classes>
+      <class name="Verify_Login_Func">
+        <methods>
+          <include name="Verify_Login" invocation-numbers="1 2 3"/>
+          <include name="Finish"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- Verify_Login_Func -->
+    </classes>
+  </test> <!-- Test valid and Invalid scenarios(failed) -->
+</suite> <!-- Failed suite [Login Suite] -->

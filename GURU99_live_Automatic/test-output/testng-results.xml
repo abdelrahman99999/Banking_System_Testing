@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[-- Open Base URL]]>
+    </line>
+    <line>
+      <![CDATA[-- Trying Enter Credentials]]>
+    </line>
+    <line>
+      <![CDATA[-- Click Login Button]]>
+    </line>
+    <line>
+      <![CDATA[-- Reaching HomePage]]>
+    </line>
+    <line>
+      <![CDATA[<img src='screenshots\20240810_011522.png' alt='screenshot' style="width:500px;height:500px;" />]]>
+    </line>
+    <line>
+      <![CDATA[-- Manager ID is shown in o/p]]>
+    </line>
+    <line>
+      <![CDATA[-- Passed Test case]]>
+    </line>
+    <line>
+      <![CDATA[-- Open Base URL]]>
+    </line>
+    <line>
+      <![CDATA[-- Trying Enter Credentials]]>
+    </line>
+    <line>
+      <![CDATA[-- Click Login Button]]>
+    </line>
+    <line>
+      <![CDATA[-- Pop-up window show with error text]]>
+    </line>
+    <line>
+      <![CDATA[-- Passed Test case]]>
+    </line>
+    <line>
+      <![CDATA[-- Open Base URL]]>
+    </line>
+    <line>
+      <![CDATA[-- Trying Enter Credentials]]>
+    </line>
+    <line>
+      <![CDATA[-- Click Login Button]]>
+    </line>
+    <line>
+      <![CDATA[-- Pop-up window show with error text]]>
+    </line>
+    <line>
+      <![CDATA[-- Passed Test case]]>
+    </line>
+    <line>
+      <![CDATA[-- Open Base URL]]>
+    </line>
+    <line>
+      <![CDATA[-- Trying Enter Credentials]]>
+    </line>
+    <line>
+      <![CDATA[-- Click Login Button]]>
+    </line>
+    <line>
+      <![CDATA[-- Pop-up window show with error text]]>
+    </line>
+    <line>
+      <![CDATA[-- Passed Test case]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-08-10T01:15:05 GMT+02:00" name="Login Suite" finished-at="2024-08-10T01:15:45 GMT+02:00" duration-ms="39906">
+    <groups>
+    </groups>
+    <test started-at="2024-08-10T01:15:05 GMT+02:00" name="Test valid and Invalid scenarios" finished-at="2024-08-10T01:15:45 GMT+02:00" duration-ms="39906">
+      <class name="Verify_Login_Func">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Verify_Login_Func@1a04f701]" started-at="2024-08-10T01:15:05 GMT+02:00" name="Setup" finished-at="2024-08-10T01:15:12 GMT+02:00" duration-ms="7530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Verify_Login(java.lang.String,java.lang.String)[pri:0, instance:Verify_Login_Func@1a04f701]" started-at="2024-08-10T01:15:12 GMT+02:00" name="Verify_Login" data-provider="LoginDataProvider" finished-at="2024-08-10T01:15:22 GMT+02:00" duration-ms="9515" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr582388]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[esYdyre]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[-- Open Base URL]]>
+            </line>
+            <line>
+              <![CDATA[-- Trying Enter Credentials]]>
+            </line>
+            <line>
+              <![CDATA[-- Click Login Button]]>
+            </line>
+            <line>
+              <![CDATA[-- Reaching HomePage]]>
+            </line>
+            <line>
+              <![CDATA[<img src='screenshots\20240810_011522.png' alt='screenshot' style="width:500px;height:500px;" />]]>
+            </line>
+            <line>
+              <![CDATA[-- Manager ID is shown in o/p]]>
+            </line>
+            <line>
+              <![CDATA[-- Passed Test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Login -->
+        <test-method is-config="true" signature="Finish()[pri:0, instance:Verify_Login_Func@1a04f701]" started-at="2024-08-10T01:15:22 GMT+02:00" name="Finish" finished-at="2024-08-10T01:15:23 GMT+02:00" duration-ms="1177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Finish -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Verify_Login_Func@1a04f701]" started-at="2024-08-10T01:15:23 GMT+02:00" name="Setup" finished-at="2024-08-10T01:15:24 GMT+02:00" duration-ms="961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Verify_Login(java.lang.String,java.lang.String)[pri:0, instance:Verify_Login_Func@1a04f701]" started-at="2024-08-10T01:15:24 GMT+02:00" name="Verify_Login" data-provider="LoginDataProvider" finished-at="2024-08-10T01:15:29 GMT+02:00" duration-ms="5088" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr582388]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[***]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[-- Open Base URL]]>
+            </line>
+            <line>
+              <![CDATA[-- Trying Enter Credentials]]>
+            </line>
+            <line>
+              <![CDATA[-- Click Login Button]]>
+            </line>
+            <line>
+              <![CDATA[-- Pop-up window show with error text]]>
+            </line>
+            <line>
+              <![CDATA[-- Passed Test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Login -->
+        <test-method is-config="true" signature="Finish()[pri:0, instance:Verify_Login_Func@1a04f701]" started-at="2024-08-10T01:15:29 GMT+02:00" name="Finish" finished-at="2024-08-10T01:15:30 GMT+02:00" duration-ms="1148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Finish -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Verify_Login_Func@1a04f701]" started-at="2024-08-10T01:15:30 GMT+02:00" name="Setup" finished-at="2024-08-10T01:15:31 GMT+02:00" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Verify_Login(java.lang.String,java.lang.String)[pri:0, instance:Verify_Login_Func@1a04f701]" started-at="2024-08-10T01:15:31 GMT+02:00" name="Verify_Login" data-provider="LoginDataProvider" finished-at="2024-08-10T01:15:37 GMT+02:00" duration-ms="5386" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[***]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[esYdyre]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[-- Open Base URL]]>
+            </line>
+            <line>
+              <![CDATA[-- Trying Enter Credentials]]>
+            </line>
+            <line>
+              <![CDATA[-- Click Login Button]]>
+            </line>
+            <line>
+              <![CDATA[-- Pop-up window show with error text]]>
+            </line>
+            <line>
+              <![CDATA[-- Passed Test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Login -->
+        <test-method is-config="true" signature="Finish()[pri:0, instance:Verify_Login_Func@1a04f701]" started-at="2024-08-10T01:15:37 GMT+02:00" name="Finish" finished-at="2024-08-10T01:15:38 GMT+02:00" duration-ms="1131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Finish -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Verify_Login_Func@1a04f701]" started-at="2024-08-10T01:15:38 GMT+02:00" name="Setup" finished-at="2024-08-10T01:15:39 GMT+02:00" duration-ms="900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Verify_Login(java.lang.String,java.lang.String)[pri:0, instance:Verify_Login_Func@1a04f701]" started-at="2024-08-10T01:15:39 GMT+02:00" name="Verify_Login" data-provider="LoginDataProvider" finished-at="2024-08-10T01:15:44 GMT+02:00" duration-ms="5012" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[***]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[***]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[-- Open Base URL]]>
+            </line>
+            <line>
+              <![CDATA[-- Trying Enter Credentials]]>
+            </line>
+            <line>
+              <![CDATA[-- Click Login Button]]>
+            </line>
+            <line>
+              <![CDATA[-- Pop-up window show with error text]]>
+            </line>
+            <line>
+              <![CDATA[-- Passed Test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Login -->
+        <test-method is-config="true" signature="Finish()[pri:0, instance:Verify_Login_Func@1a04f701]" started-at="2024-08-10T01:15:44 GMT+02:00" name="Finish" finished-at="2024-08-10T01:15:45 GMT+02:00" duration-ms="1134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Finish -->
+      </class> <!-- Verify_Login_Func -->
+    </test> <!-- Test valid and Invalid scenarios -->
+  </suite> <!-- Login Suite -->
+</testng-results>
